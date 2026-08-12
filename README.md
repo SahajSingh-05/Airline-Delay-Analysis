@@ -6,8 +6,6 @@ The project transforms airline flight data into an interactive four-page busines
 
 ---
 
----
-
 ## 📊 Dashboard Preview
 
 ### 1. Executive Summary
