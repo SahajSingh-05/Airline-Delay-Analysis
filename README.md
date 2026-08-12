@@ -6,6 +6,42 @@ The project transforms airline flight data into an interactive four-page busines
 
 ---
 
+---
+
+## 📊 Dashboard Preview
+
+### 1. Executive Summary
+
+Provides an overview of flight volume, delays, cancellations, diversions, and overall operational performance.
+
+![Executive Summary](Power%20Bi/Page1_Executive_Summary.png)
+
+---
+
+### 2. Geographic Analysis
+
+Analyzes flight activity and delay patterns across airports and geographic locations.
+
+![Geographic Analysis](Power%20Bi/Page2_Geographic_Analysis.png)
+
+---
+
+### 3. Airline & Delay Performance
+
+Compares airline performance based on delays, cancellations, flight volume, and operational reliability.
+
+![Airline Performance](Power%20Bi/Page3_Airline_Performance.png)
+
+---
+
+### 4. Flight Operations & Time Analysis
+
+Analyzes flight volume, delay patterns, monthly trends, day-of-week patterns, and delay severity.
+
+![Flight Operations](Power%20Bi/Page4_Flight_Operations.png)
+
+---
+
 ## 📌 Project Overview
 
 Airline delays can negatively impact passenger experience, operational efficiency, and airline performance. This project analyzes historical flight data to identify patterns in delays, cancellations, diversions, airport activity, and flight operations.
