@@ -1,3 +1,23 @@
+## 📂 Project Structure
+
+```text
+Airline-Delay-Analysis/
+│
+├── 📁 Power Bi/
+│   ├── Page1_Executive_Summary.png
+│   ├── Page2_Geographic_Analysis.png
+│   ├── Page3_Airline_Performance.png
+│   └── Page4_Flight_Operations.png
+│
+├── 📁 Dataset/
+│   └── airline_flight_data.csv
+│
+├── 📊 Airline_Delay_Analysis.pbix
+│
+└── 📄 README.md
+
+---
+
 # ✈️ Airline Delay Analysis Dashboard | Power BI
 
 An interactive **Airline Operations & Delay Analysis Dashboard** built using **Microsoft Power BI** to analyze flight activity, airline performance, airport operations, delays, cancellations, diversions, and operational trends.
